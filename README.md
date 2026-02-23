@@ -1,12 +1,18 @@
-# Welcom to my page, I'm Kian Hans Pagharion
+# Welcome to my page, I'm Kian Hans Pagharion
+
+[About](#about-me) • 
+[Skills](#skills) • 
+[Goals](#goals) • 
+[Studying](#currently-studying) • 
+[CV](#curriculum-vitae)
 
 ## A bit about me 
-I'm an aspiring compueter scinece student that is utilising this platform to display my skill and knowledge.
+I'm an aspiring computer scinece student that is utilising this platform to display my skill and knowledge.
 
 ## Skills
 - Programming: Java
 - Web development
-- Github
+- GitHub
 
 ## Goals
 - Improve my coding skills
