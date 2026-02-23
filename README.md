@@ -11,8 +11,8 @@ I'm an aspiring compueter scinece student that is utilising this platform to dis
 ## Goals
 - Improve my coding skills
 - Contribute to open source
-- building real world projects
-- continue education to a QQI level 8 in college
+- Building real world projects
+- Continue education to a QQI level 8 in college
 
 ## Studying
 - Web development
@@ -20,3 +20,6 @@ I'm an aspiring compueter scinece student that is utilising this platform to dis
 - Software Architecture
 - GUI Programming
 - Object Oriented Programming
+
+## Curriculum Vitae for 2026
+[CV for 2026.docx](https://github.com/user-attachments/files/25496149/CV.for.2026.docx)
